@@ -1,0 +1,11 @@
+c:\users\spadmin\source\repos\SPLoadTesting\SPLoadTesting\bin\Debug\SPLoadTesting.dll
+c:\users\spadmin\source\repos\SPLoadTesting\SPLoadTesting\bin\Debug\SPLoadTesting.pdb
+c:\users\spadmin\source\repos\SPLoadTesting\SPLoadTesting\bin\Debug\Microsoft.VisualStudio.QualityTools.WebTestFramework.dll
+c:\users\spadmin\source\repos\SPLoadTesting\SPLoadTesting\obj\Debug\SPLoadTesting.csproj.CoreCompileInputs.cache
+c:\users\spadmin\source\repos\SPLoadTesting\SPLoadTesting\obj\Debug\SPLoadTesting.csproj.CopyComplete
+c:\users\spadmin\source\repos\SPLoadTesting\SPLoadTesting\obj\Debug\SPLoadTesting.dll
+c:\users\spadmin\source\repos\SPLoadTesting\SPLoadTesting\obj\Debug\SPLoadTesting.pdb
+C:\Users\spadmin\source\repos\SPLoadTesting\SPLoadTesting\bin\Debug\File for the version 1.xlsx
+C:\Users\spadmin\source\repos\SPLoadTesting\SPLoadTesting\bin\Debug\File for the version 2.xlsx
+C:\Users\spadmin\source\repos\SPLoadTesting\SPLoadTesting\bin\Debug\File for the version 3.xlsx
+C:\Users\spadmin\source\repos\SPLoadTesting\SPLoadTesting\bin\Debug\UploadFile.webtest
